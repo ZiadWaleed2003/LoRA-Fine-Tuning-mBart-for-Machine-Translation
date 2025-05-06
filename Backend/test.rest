@@ -1,0 +1,13 @@
+
+
+GET https://ca46-34-28-237-149.ngrok-free.app/api/status
+
+###
+
+
+POST https://ca46-34-28-237-149.ngrok-free.app/api/predict
+Content-Type: application/json
+
+{
+    "text": "الحال صعب جدا"
+}
