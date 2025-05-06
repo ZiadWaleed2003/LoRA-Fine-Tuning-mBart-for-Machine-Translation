@@ -1,13 +1,13 @@
 
 
-GET https://ca46-34-28-237-149.ngrok-free.app/api/status
+GET https://65aa-34-82-165-170.ngrok-free.app/api/status
 
 ###
 
 
-POST https://ca46-34-28-237-149.ngrok-free.app/api/predict
+POST https://65aa-34-82-165-170.ngrok-free.app/api/predict
 Content-Type: application/json
 
 {
-    "text": "الحال صعب جدا"
+    "text":"اتجه يمينا ثم اكمل في شارع الطباخيين ثم اتجه شمالا حتي تصل الي المتحف. انعطف يسارا حتي تقاطع رمسيس ثم انظر الي علامات الطريق للمزيد من المساعدة  "
 }
