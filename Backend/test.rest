@@ -1,0 +1,13 @@
+
+
+GET https://65aa-34-82-165-170.ngrok-free.app/api/status
+
+###
+
+
+POST https://65aa-34-82-165-170.ngrok-free.app/api/predict
+Content-Type: application/json
+
+{
+    "text":"اتجه يمينا ثم اكمل في شارع الطباخيين ثم اتجه شمالا حتي تصل الي المتحف. انعطف يسارا حتي تقاطع رمسيس ثم انظر الي علامات الطريق للمزيد من المساعدة  "
+}
